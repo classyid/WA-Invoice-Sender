@@ -43,7 +43,7 @@ Sistem automasi pengiriman notifikasi invoice melalui WhatsApp yang terintegrasi
 ### Konfigurasi
 ```javascript
 const CONFIG = {
-  API_URL: "https://kirimwa.apps.classy.id/send-message",
+  API_URL: "https://m-pedia/send-message",
   API_KEY: "YOUR_API_KEY",
   SENDER_NUMBER: "YOUR_SENDER_NUMBER",
   TIMEZONE: "Asia/Jakarta"
